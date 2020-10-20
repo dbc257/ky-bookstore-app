@@ -1,0 +1,18 @@
+{
+  "development": {
+    "username": "ubpvnile",
+    "password": "IgVqWbh4VGD2HB7fh9GEONfFDM9cYmbV",
+    "database": "ubpvnile",
+    "host": "hanno.db.elephantsql.com",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "ubpvnile",
+    "password": "IgVqWbh4VGD2HB7fh9GEONfFDM9cYmbV",
+    "database": "ubpvnile",
+    "host": "hanno.db.elephantsql.com",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}

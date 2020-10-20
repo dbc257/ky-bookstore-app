@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  ${head}
+  <title>Register</title>
+</head>
+<body>
+  <h1>Register</h1>
+  ${ error ? `<em>${error}</em>`: ''}
+  <form action="" method="POST">
+    <div>
+      <label for="username">Username</label>
+      <input type="username" name="username" id="username" required>
+    </div>
+    <div>
+      <label for="password">Password</label>
+      <input type="password" name="password" id="password" required>
+    </div>
+    <button type="submit">Register</button>
+  </form>
+</body>
+</html>
